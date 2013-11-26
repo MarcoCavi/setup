@@ -10,6 +10,10 @@ sudo apt-get install -y git-core
 git clone https://github.com/MarcoCavi/setup.git
 ./setup/setup.sh   
 ```
+Sequence:
+```sh
+cd $HOME;sudo apt-get install -y git-core;git clone https://github.com/MarcoCavi/setup.git;./setup/setup.sh
+```
 
 Original content from: 
 http://github.com/startup-class/dotfiles and
